@@ -1,0 +1,42 @@
+/* public/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+h1 {
+    color: #0275d8;
+}
+
+input, #setPromptButton {
+  padding: 0.5em;
+}
+
+.center {
+  margin: 1em auto;
+  text-align: center;
+}
+
+h2 {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+#joinCode {
+  background: #ffff00;
+  padding: 0.5em;
+}
+
+#prompt {
+  font-size: 2em;
+  padding: 1em;
+  width: 90%;
+  background: #ccccff;
+  margin: 1em auto;
+}
+#predictions button {
+  margin: 0.8em;
+  font-size: 1.5em;
+  padding: 0.3em;
+}
